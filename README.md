@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sweedface
 - 👀 I’m interested in you
 - 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on abolishing the gov.
 - 📫 How to reach me light a joint
 - 😄 Pronouns: (he)licopter
 - ⚡ Fun fact: ...
