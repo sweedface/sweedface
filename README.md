@@ -13,7 +13,6 @@
 - The best way to stop a bad guy with a gun is a good guy with a gun
 - Guns don't kill people, people kill other people
 - Property rights are everything
-- 
 
 <!---
 sweedface/sweedface is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
